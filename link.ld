@@ -2,7 +2,7 @@
 *  link.ld
 */
 OUTPUT_FORMAT(pei-i386)    
-ENTRY(entry)
+ENTRY(start)
 
 SECTIONS
  {
